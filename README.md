@@ -5,6 +5,9 @@
 
 **Первый проект в котором я что то пробова сделать**
 ### [Эксперимент](https://github.com/Alez34/bank)
+
+<!-- Добавьте в README.md -->
+![Snake animation](https://github.com/ваш-никнейм/ваш-никнейм/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Alez34/Alez34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
