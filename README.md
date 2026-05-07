@@ -1,4 +1,4 @@
-## Hi there 👋
+## Мое портфолио 📋
 
 <!--
 **Alez34/Alez34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
