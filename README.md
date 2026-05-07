@@ -1,10 +1,10 @@
 ## Мое портфолио  ⬇️👜
 
 **Консольное приложение банка**
-### [Bank](https://github.com/Alez34/Alez))
+### [Bank](https://github.com/Alez34/Alez)
 
 **Первый проект в котором я что то пробова сделать**
-### [Эксперимент](https://github.com/Alez34/bank))
+### [Эксперимент](https://github.com/Alez34/bank)
 <!--
 **Alez34/Alez34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
