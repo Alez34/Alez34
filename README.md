@@ -1,5 +1,13 @@
 ## Мое портфолио  ⬇️👜
 
+
+
+- **Описание:** Краткое описание, что делает проект
+- **Технологии:** React, Node.js, MongoDB
+- **Демо:** [живая ссылка](https://github.com/Alez34/bank)
+
+### [Название проекта 2](ссылка-на-репозиторий)
+
 <!--
 **Alez34/Alez34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
