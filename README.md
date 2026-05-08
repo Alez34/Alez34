@@ -19,7 +19,7 @@
 
 Технологии / стек:
 Язык: C#
-Среда: Visual Studio / VS Code **
+Среда: Visual Studio / VS Code 
 ### [Bank](https://github.com/Alez34/Alez)
 
 **Первый проект в котором я что то пробова сделать**
