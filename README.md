@@ -22,7 +22,7 @@
 Среда: Visual Studio / VS Code 
 ### [Bank](https://github.com/Alez34/Alez)
 
-**Первый проект в котором я что то пробова сделать**
+**Проект в котором я что то пробова сделать**
 ### [Эксперимент](https://github.com/Alez34/bank)
 
 ![Snake](https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg)
